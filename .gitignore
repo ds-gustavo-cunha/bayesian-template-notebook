@@ -1,0 +1,5 @@
+.claude/
+data/
+pymc_models/
+.python-version
+*.md
